@@ -9,3 +9,8 @@ education details
 10th:
 12th:
 deg:
+
+skills
+git
+linux
+aws
