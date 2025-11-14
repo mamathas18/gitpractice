@@ -2,3 +2,4 @@ welcome
 name:
 phno:
 education:
+skills:
