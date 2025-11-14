@@ -5,3 +5,7 @@ name:
 phno:
 address:
 
+education details
+10th:
+12th:
+deg:
