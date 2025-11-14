@@ -1,2 +1,7 @@
 welcome to devops
 
+details of student
+name: 
+phno:
+address:
+
