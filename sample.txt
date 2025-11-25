@@ -13,3 +13,4 @@ deg:
 skills
 git 
 linux
+aws
